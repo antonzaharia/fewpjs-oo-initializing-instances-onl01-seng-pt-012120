@@ -1,8 +1,8 @@
 // Write your code here
 class Breakfast {
   constructor(food, drink){
-    food = this.food
-    drink = this.drink
+    this.food = food
+    this.drink = drink
   }
 }
 class Lunch {
